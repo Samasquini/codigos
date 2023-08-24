@@ -8,5 +8,6 @@ namespace TrabalhoXML_AGRVAI.Classes
 {
     internal class CadastroClientes
     {
+        public string Nome { get; set; }
     }
 }
